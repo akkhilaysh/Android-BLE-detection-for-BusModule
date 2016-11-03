@@ -2,7 +2,7 @@ OVERVIEW
 
 This application is 1 of 2 modules that make the project complete.
 
-Android applications powered by Bluetooth Low Energy device to keep track of school going child by respective parents.
+Bluetooth Low Energy device powered by Android to keep track of school going child by respective parents.
 
 The system consists of two main components that complement each other; Bus module and the Parent module. Bus module, an Android Application detects the child wearing Eddystone capable BLE tags and updates the status of the child on the data server. Parent module, another Android application helps parent to know about the whereabouts of the child.
 
