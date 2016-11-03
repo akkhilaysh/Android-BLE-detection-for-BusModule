@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="#ebf5fa" >
+
+
+    <!--<ImageView
+        android:id="@+id/pic"
+        android:layout_width="100dp"
+        android:layout_height="75dp"
+        android:layout_alignParentLeft="true"
+        android:src="@drawable/ic_account_circle_black_48dp"
+        android:layout_margin="3dp"/>-->
+
+    <TextView
+        android:id="@+id/row_batch"
+        android:layout_width="170dp"
+        android:layout_height="75dp"
+        android:gravity="center"
+        android:text="Default Batch"
+        android:textSize="20sp"
+        android:layout_margin="3dp"
+        android:textColor="#075da3"/>
+    <TextView
+        android:id="@+id/row_schoolName"
+        android:layout_width="wrap_content"
+        android:layout_height="75dp"
+        android:layout_toRightOf="@+id/row_batch"
+        android:layout_alignParentRight="true"
+        android:text="Default School"
+        android:gravity="center"
+        android:textColor="#30a1ff"
+
+        android:layout_margin="3dp"/>
+
+
+</RelativeLayout>

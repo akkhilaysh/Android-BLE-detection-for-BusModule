@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">ProBBCBus</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_main">ProBBCBus</string>
+    <string name="title_activity_select_batch">Select Batch</string>
+    <string name="title_activity_student_list">ProBBC</string>
+
+</resources>

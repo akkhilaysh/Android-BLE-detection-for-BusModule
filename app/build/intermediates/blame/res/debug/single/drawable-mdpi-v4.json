@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\akkhi\\Downloads\\ProBBC-20161022T154751Z\\ProBBC\\Android Modules Code\\ProBBCBus\\ProBBCBus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\switch1.jpg",
+        "source": "C:\\Users\\akkhi\\Downloads\\ProBBC-20161022T154751Z\\ProBBC\\Android Modules Code\\ProBBCBus\\ProBBCBus\\app\\src\\main\\res\\drawable-mdpi\\switch1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\akkhi\\Downloads\\ProBBC-20161022T154751Z\\ProBBC\\Android Modules Code\\ProBBCBus\\ProBBCBus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\logout.png",
+        "source": "C:\\Users\\akkhi\\Downloads\\ProBBC-20161022T154751Z\\ProBBC\\Android Modules Code\\ProBBCBus\\ProBBCBus\\app\\src\\main\\res\\drawable-mdpi\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\akkhi\\Downloads\\ProBBC-20161022T154751Z\\ProBBC\\Android Modules Code\\ProBBCBus\\ProBBCBus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_account_circle_black_48dp.png",
+        "source": "C:\\Users\\akkhi\\Downloads\\ProBBC-20161022T154751Z\\ProBBC\\Android Modules Code\\ProBBCBus\\ProBBCBus\\app\\src\\main\\res\\drawable-mdpi\\ic_account_circle_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\akkhi\\Downloads\\ProBBC-20161022T154751Z\\ProBBC\\Android Modules Code\\ProBBCBus\\ProBBCBus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\shaper.xml",
+        "source": "C:\\Users\\akkhi\\Downloads\\ProBBC-20161022T154751Z\\ProBBC\\Android Modules Code\\ProBBCBus\\ProBBCBus\\app\\src\\main\\res\\drawable-mdpi\\shaper.xml"
+    },
+    {
+        "merged": "C:\\Users\\akkhi\\Downloads\\ProBBC-20161022T154751Z\\ProBBC\\Android Modules Code\\ProBBCBus\\ProBBCBus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\shaper2.xml",
+        "source": "C:\\Users\\akkhi\\Downloads\\ProBBC-20161022T154751Z\\ProBBC\\Android Modules Code\\ProBBCBus\\ProBBCBus\\app\\src\\main\\res\\drawable-mdpi\\shaper2.xml"
+    },
+    {
+        "merged": "C:\\Users\\akkhi\\Downloads\\ProBBC-20161022T154751Z\\ProBBC\\Android Modules Code\\ProBBCBus\\ProBBCBus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\contact.png",
+        "source": "C:\\Users\\akkhi\\Downloads\\ProBBC-20161022T154751Z\\ProBBC\\Android Modules Code\\ProBBCBus\\ProBBCBus\\app\\src\\main\\res\\drawable-mdpi\\contact.png"
+    },
+    {
+        "merged": "C:\\Users\\akkhi\\Downloads\\ProBBC-20161022T154751Z\\ProBBC\\Android Modules Code\\ProBBCBus\\ProBBCBus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\akkhi\\Downloads\\ProBBC-20161022T154751Z\\ProBBC\\Android Modules Code\\ProBBCBus\\ProBBCBus\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]

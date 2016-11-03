@@ -1,0 +1,63 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MonitoringActivity"
+    android:background="#c6c6c6"
+    >
+
+    <TextView
+        android:id="@+id/head_batch"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+
+        android:gravity="center"
+        android:text="Morning Batch"
+
+        android:textColor="#087ad7"
+        android:textSize="20sp"
+        android:layout_below="@+id/border"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/head_school"
+        android:layout_width="match_parent"
+        android:layout_height="25dp"
+
+        android:text="DYPIC"
+        android:gravity="center"
+        android:textColor="#70b5ed"
+        android:textSize="15sp"
+        android:layout_marginLeft="3dp"
+        android:layout_marginRight="3dp"
+        android:layout_below="@+id/head_batch"
+        android:layout_centerHorizontal="true" />
+
+
+    <EditText
+        android:id="@+id/monitoringText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/head_school"
+        android:layout_marginTop="36dp"
+        android:ems="10"
+        android:background="#c6c6c6"
+        android:gravity="left|top"
+        android:textColor="#4390e7"
+        android:inputType="textMultiLine" >
+        <requestFocus />
+    </EditText>
+
+    <Button
+        android:id="@+id/Button01"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:onClick="onRangingClicked"
+        android:layout_below="@+id/monitoringText"
+        android:text="Start Ranging"
+        android:background="@drawable/shaper2"
+        android:layout_margin="10dp"/>
+
+</RelativeLayout>

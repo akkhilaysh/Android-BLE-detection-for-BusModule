@@ -1,0 +1,182 @@
+[
+    {
+        "outputFile": "C:\\Users\\akkhi\\Downloads\\ProBBC-20161022T154751Z\\ProBBC\\Android Modules Code\\ProBBCBus\\ProBBCBus\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\akkhi\\Downloads\\ProBBC-20161022T154751Z\\ProBBC\\Android Modules Code\\ProBBCBus\\ProBBCBus\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 90,
+                        "endColumn": 57,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\Users\\akkhi\\Downloads\\ProBBC-20161022T154751Z\\ProBBC\\Android Modules Code\\ProBBCBus\\ProBBCBus\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 149,
+                        "endColumn": 55,
+                        "endOffset": 200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 46,
+                    "endOffset": 211
+                },
+                "from": {
+                    "file": "C:\\Users\\akkhi\\Downloads\\ProBBC-20161022T154751Z\\ProBBC\\Android Modules Code\\ProBBCBus\\ProBBCBus\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 46,
+                        "endOffset": 59
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 216,
+                    "endColumn": 54,
+                    "endOffset": 266
+                },
+                "from": {
+                    "file": "C:\\Users\\akkhi\\Downloads\\ProBBC-20161022T154751Z\\ProBBC\\Android Modules Code\\ProBBCBus\\ProBBCBus\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 64,
+                        "endColumn": 54,
+                        "endOffset": 114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 271,
+                    "endColumn": 57,
+                    "endOffset": 324
+                },
+                "from": {
+                    "file": "C:\\Users\\akkhi\\Downloads\\ProBBC-20161022T154751Z\\ProBBC\\Android Modules Code\\ProBBCBus\\ProBBCBus\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 119,
+                        "endColumn": 57,
+                        "endOffset": 172
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 329,
+                    "endColumn": 68,
+                    "endOffset": 393
+                },
+                "from": {
+                    "file": "C:\\Users\\akkhi\\Downloads\\ProBBC-20161022T154751Z\\ProBBC\\Android Modules Code\\ProBBCBus\\ProBBCBus\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 177,
+                        "endColumn": 68,
+                        "endOffset": 241
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 398,
+                    "endColumn": 62,
+                    "endOffset": 456
+                },
+                "from": {
+                    "file": "C:\\Users\\akkhi\\Downloads\\ProBBC-20161022T154751Z\\ProBBC\\Android Modules Code\\ProBBCBus\\ProBBCBus\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 246,
+                        "endColumn": 62,
+                        "endOffset": 304
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 461,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 753
+                },
+                "from": {
+                    "file": "C:\\Users\\akkhi\\Downloads\\ProBBC-20161022T154751Z\\ProBBC\\Android Modules Code\\ProBBCBus\\ProBBCBus\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 478
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 758,
+                    "endLine": 21,
+                    "endColumn": 12,
+                    "endOffset": 915
+                },
+                "from": {
+                    "file": "C:\\Users\\akkhi\\Downloads\\ProBBC-20161022T154751Z\\ProBBC\\Android Modules Code\\ProBBCBus\\ProBBCBus\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 516,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 673
+                    }
+                }
+            }
+        ]
+    }
+]

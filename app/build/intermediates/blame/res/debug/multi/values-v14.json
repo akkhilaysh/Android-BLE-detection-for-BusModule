@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "C:\\Users\\akkhi\\Downloads\\ProBBC-20161022T154751Z\\ProBBC\\Android Modules Code\\ProBBCBus\\ProBBCBus\\app\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "C:\\Users\\akkhi\\Downloads\\ProBBC-20161022T154751Z\\ProBBC\\Android Modules Code\\ProBBCBus\\ProBBCBus\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 220,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 352
+                    }
+                }
+            }
+        ]
+    }
+]

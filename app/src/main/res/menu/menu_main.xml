@@ -1,0 +1,37 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item
+        android:id="@+id/action_change_child"
+        android:title="Change Batch"
+        android:icon="@drawable/switch1"
+        android:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_logout"
+        android:title="Logout"
+        android:icon="@drawable/logout"
+        android:showAsAction="never" />
+
+    <item android:id="@+id/action_contact"
+        android:icon="@drawable/contact"
+        android:title="Emergency Alert"
+        android:showAsAction="never"/>
+
+    <item android:id="@+id/action_completescan"
+        android:icon="@drawable/switch1"
+        android:title="Go"
+        android:showAsAction="never"
+        />
+    <item
+        android:id="@+id/action_reachedschool"
+        android:icon="@drawable/ic_launcher"
+        android:title="Reached"
+        android:showAsAction="never"
+        />
+    <item android:id="@+id/action_exit"
+        android:icon="@drawable/ic_launcher"
+        android:title="Exit Scan"
+        android:showAsAction="never"
+        />
+</menu>

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\akkhi\\Downloads\\ProBBC-20161022T154751Z\\ProBBC\\Android Modules Code\\ProBBCBus\\ProBBCBus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_layout2.xml",
+        "source": "C:\\Users\\akkhi\\Downloads\\ProBBC-20161022T154751Z\\ProBBC\\Android Modules Code\\ProBBCBus\\ProBBCBus\\app\\src\\main\\res\\layout\\row_layout2.xml"
+    },
+    {
+        "merged": "C:\\Users\\akkhi\\Downloads\\ProBBC-20161022T154751Z\\ProBBC\\Android Modules Code\\ProBBCBus\\ProBBCBus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "C:\\Users\\akkhi\\Downloads\\ProBBC-20161022T154751Z\\ProBBC\\Android Modules Code\\ProBBCBus\\ProBBCBus\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\akkhi\\Downloads\\ProBBC-20161022T154751Z\\ProBBC\\Android Modules Code\\ProBBCBus\\ProBBCBus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select_batch.xml",
+        "source": "C:\\Users\\akkhi\\Downloads\\ProBBC-20161022T154751Z\\ProBBC\\Android Modules Code\\ProBBCBus\\ProBBCBus\\app\\src\\main\\res\\layout\\activity_select_batch.xml"
+    },
+    {
+        "merged": "C:\\Users\\akkhi\\Downloads\\ProBBC-20161022T154751Z\\ProBBC\\Android Modules Code\\ProBBCBus\\ProBBCBus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_monitoring.xml",
+        "source": "C:\\Users\\akkhi\\Downloads\\ProBBC-20161022T154751Z\\ProBBC\\Android Modules Code\\ProBBCBus\\ProBBCBus\\app\\src\\main\\res\\layout\\activity_monitoring.xml"
+    },
+    {
+        "merged": "C:\\Users\\akkhi\\Downloads\\ProBBC-20161022T154751Z\\ProBBC\\Android Modules Code\\ProBBCBus\\ProBBCBus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ranging.xml",
+        "source": "C:\\Users\\akkhi\\Downloads\\ProBBC-20161022T154751Z\\ProBBC\\Android Modules Code\\ProBBCBus\\ProBBCBus\\app\\src\\main\\res\\layout\\activity_ranging.xml"
+    },
+    {
+        "merged": "C:\\Users\\akkhi\\Downloads\\ProBBC-20161022T154751Z\\ProBBC\\Android Modules Code\\ProBBCBus\\ProBBCBus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_student_list.xml",
+        "source": "C:\\Users\\akkhi\\Downloads\\ProBBC-20161022T154751Z\\ProBBC\\Android Modules Code\\ProBBCBus\\ProBBCBus\\app\\src\\main\\res\\layout\\activity_student_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\akkhi\\Downloads\\ProBBC-20161022T154751Z\\ProBBC\\Android Modules Code\\ProBBCBus\\ProBBCBus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_layout.xml",
+        "source": "C:\\Users\\akkhi\\Downloads\\ProBBC-20161022T154751Z\\ProBBC\\Android Modules Code\\ProBBCBus\\ProBBCBus\\app\\src\\main\\res\\layout\\row_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\akkhi\\Downloads\\ProBBC-20161022T154751Z\\ProBBC\\Android Modules Code\\ProBBCBus\\ProBBCBus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\akkhi\\Downloads\\ProBBC-20161022T154751Z\\ProBBC\\Android Modules Code\\ProBBCBus\\ProBBCBus\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
